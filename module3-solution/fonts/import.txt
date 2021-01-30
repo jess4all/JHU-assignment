@@ -1,0 +1,14 @@
+1.-------------------------------------------------------------------------
+//import the "font-face.css" style sheet into the current style sheet:
+
+@import "./assets/fonts/Avenir-Next-Pro/font-face.css";
+@import "./assets/fonts/Avenir-Next-Rounded-Pro/font-face.css";
+
+
+
+2.-------------------------------------------------------------------------
+//Declare the font family
+font-family: 'Avenir Next LT Pro';
+
+//or combine with other font family
+font-family: 'Avenir Next LT Pro', 'Nunito Sans', 'Lato', 'Roboto', sans-serif;

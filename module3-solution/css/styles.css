@@ -1,0 +1,173 @@
+/* import the "font-face.css" style sheet into the current style sheet: */
+@import "../fonts/Avenir-Next-Pro/font-face.css";
+@import "../fonts/Avenir-Next-Rounded-Pro/font-face.css";
+
+* {
+  box-sizing: border-box;
+  /* color: black; */
+  text-decoration: none;
+  /* margin: 0px;
+  padding: 0px; */
+  font-family: Helvetica;
+}
+a:link, a:visited {
+  text-decoration: none;
+  /* color: inherit; */
+  /* background-color: green; */
+}
+a:hover, a:active {
+  /* text-decoration: none; */
+  /* background-color: red; */
+  color: yellow;
+}
+
+
+#navbarNav {
+  background-color: #999999;
+  /* width: 100% !important; */
+}
+
+.navbar-nav {
+
+
+}
+
+.nav-item {
+  /* width: 100% !important; */
+}
+
+#potato {
+  /* border: 1px solid yellow; */
+}
+
+.nav-item {
+  /* border: 2px solid black; */
+
+}
+
+.navbar {
+  background-color: #242424;
+}
+
+
+
+
+
+
+
+
+h1 {
+  /* text-align: center; */
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 28px;
+}
+
+.content {
+  background-color: #999999;
+}
+
+.content-title {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 20px;
+}
+
+/********** (xxl) Extra Extra large devices only **********//* Bootstrap 5 limit */
+@media (min-width: 1400px) {
+
+}
+
+/********** (xl) Extra large devices only **********//* Bootstrap 4 limit */
+@media (min-width: 1200px) and (max-width: 1399.98px) { /* (min-width: 1200px) and (max-width: 1399.98px) */
+
+}
+
+/********** (lg) Large devices only **********/
+@media (min-width: 992px) and (max-width: 1199.98px) { /* (min-width: 992px) and (max-width: 1199.98px) */
+
+}
+
+/********** (md) Medium devices only **********//********** 768px below is mobile **********/
+@media (min-width: 768px) and (max-width: 991.98px) { /* (min-width: 768px) and (max-width: 991.98px) */
+
+}
+
+/* ********* (sm) Small devices only **********/ /*Samsung Galaxy S9+ Viewport is 360 x 740px, Apple iPhone XS Max 414 x 896px, Samsung Galaxy Note9 414 x 846px */
+@media (min-width: 576px) and (max-width: 767.98px) { /* (min-width: 576px) and (max-width: 767.98px) */
+
+}
+
+/********** (None) Extra Small devices only **********/
+@media (min-width: 0px) and (max-width: 575.98px) { /* (min-width: 0px) and (max-width: 575.98px) */
+
+}
+
+/* $container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+); */
+
+/* (xxl) */
+/* (xl) */
+/* (lg) */
+/* (md) */
+/* (sm) */
+/* (None) */
+
+.size36 {
+  font-size: 36px;
+}
+.avenirNext {
+  font-family: 'Avenir Next LT Pro';
+}
+.avenirNextRounded {
+  font-family: 'Avenir Next Rounded Pro';
+}
+.italic {
+  font-style: italic;
+}
+.weight100 {
+  font-weight: 100;
+}
+.weight200 {
+  font-weight: 200;
+}
+.weight300 {
+  font-weight: 300;
+}
+.weight400 {
+  font-weight: 400;
+}
+.weight500 {
+  font-weight: 500;
+}
+.weight600 {
+  font-weight: 600;
+}
+.weight700 {
+  font-weight: 700;
+}
+.weight800 {
+  font-weight: 800;
+}
+.weight900 {
+  font-weight: 900;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */

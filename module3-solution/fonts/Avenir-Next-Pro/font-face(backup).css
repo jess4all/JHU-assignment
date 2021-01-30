@@ -1,0 +1,119 @@
+/* 100 */
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Avenir Next LT Pro Thin'), url('AvenirNextLTPro-Thin.otf') format("opentype");
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: italic;
+  font-weight: 100;
+  src: local('Avenir Next LT Pro Thin Italic'), url('AvenirNextLTPro-ThinItalic.otf') format("opentype");
+}
+
+/* 200 */
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Avenir Next LT Pro Ultralight'), url('AvenirNextLTPro-Ultralight.otf') format("opentype");
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: italic;
+  font-weight: 200;
+  src: local('Avenir Next LT Pro Ultralight Italic'), url('AvenirNextLTPro-UltralightItalic.otf') format("opentype");
+}
+
+/* 300 */
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Avenir Next LT Pro Light'), url('AvenirNextLTPro-Light.otf') format("opentype");
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Avenir Next LT Pro Light Italic'), url('AvenirNextLTPro-LightItalic.otf') format("opentype");
+}
+
+/* 400 */
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Avenir Next LT Pro Regular'), url('AvenirNextLTPro-Regular.otf') format("opentype");
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Avenir Next LT Pro Italic'), url('AvenirNextLTPro-Italic.otf') format("opentype");
+}
+
+/* 600 */
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Avenir Next LT Pro Medium'), url('AvenirNextLTPro-Medium.otf') format("opentype");
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Avenir Next LT Pro Medium Italic'), url('AvenirNextLTPro-MediumItalic.otf') format("opentype");
+}
+
+/* 700 */
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Avenir Next LT Pro Demi'), url('AvenirNextLTPro-Demi.otf') format("opentype");
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Avenir Next LT Pro Demi Italic'), url('AvenirNextLTPro-DemiItalic.otf') format("opentype");
+}
+
+/* 800 */
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Avenir Next LT Pro Bold'), url('AvenirNextLTPro-Bold.otf') format("opentype");
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: italic;
+  font-weight: 800;
+  src: local('Avenir Next LT Pro Bold Italic'), url('AvenirNextLTPro-BoldItalic.otf') format("opentype");
+}
+
+/* 900 */
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Avenir Next LT Pro Heavy'), url('AvenirNextLTPro-Heavy.otf') format("opentype");
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Avenir Next LT Pro Heavy Italic'), url('AvenirNextLTPro-HeavyItalic.otf') format("opentype");
+}
