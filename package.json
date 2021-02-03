@@ -4,6 +4,8 @@
   "description": "assignments for html-css-js course by Johns Hopkins University",
   "main": "index.html",
   "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jess4all/JHU-assignment/issues"
   },
-  "homepage": "https://github.com/jess4all/JHU-assignment#readme"
+  "homepage": "https://github.com/jess4all/JHU-assignment#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
